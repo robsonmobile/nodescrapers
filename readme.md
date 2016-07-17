@@ -1,4 +1,4 @@
-# Scraping IMDB with Nodejs
+# Web Scraping with Nodejs
 
 *Web scraping is a technique in data extraction to pull information from websites.*
 
@@ -12,3 +12,6 @@
 - request_example.js shows how to use request package.
 - cheerio_example shows how to use cheerio package.
 - pinterest.js shows how to scrape a pin form Pinterest using data-reactid(s).
+
+### Other Usages
+- [Scraping IMDB](https://github.com/amandeepmittal/nodescrapers/tree/master/nodescraper_imdb)
