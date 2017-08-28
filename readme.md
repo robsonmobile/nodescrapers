@@ -1,5 +1,7 @@
 # Web Scraping with Nodejs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amandeepmittal/nodescrapers.svg)](https://greenkeeper.io/)
+
 *Web scraping is a technique in data extraction to pull information from websites.*
 
 #### Technologies Used
